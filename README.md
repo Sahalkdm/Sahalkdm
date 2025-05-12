@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Sahal 👋
+🎓 4th-year Data Science student at IIT Madras | 💻 Web & AI/ML Enthusiast  
+🔭 I’m currently doing internship at Tata Elxsi (Jan'25 - May'25) | Project : Smart Boat-Trailer Loading Assistance with AI   
+🚀 Interested in Real-Time Applications  
+
+🔧 Technologies: React | Next.js | Tailwind CSS | Node.js | Express.js | MongoDB | Python | Machine Learning | Computer Vision | Socket.io
+
+🌐 Portfolio: https://sahalkdm.github.io/my_portfolio/ | 📫 sahalkdm@gmail.com
+
 
 <!--
 **Sahalkdm/Sahalkdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
